@@ -1,0 +1,4 @@
+cv2
+pyautogui
+mediapipe
+time
